@@ -105,5 +105,13 @@ h1{
     width: 40%;
     height: 10%;
     margin: auto;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
+
+
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: 600;
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 2px;
 }
